@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6db9b73d082dc441a5cefc444cf4d58, type: 3}
+  m_Name: MagicTowerSO lvl2
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: fe574a1c3aae0d149913181806086ec3, type: 3}
+  prefab: {fileID: 5030150555359280315, guid: e7a5130cce8362a4fa366d66167ce255, type: 3}
+  projectile_prefab: {fileID: 9135236028647319984, guid: 38fdbd0c586da3d4e8f286b8e39ce0bf, type: 3}
+  menu_items: []
+  cost: 300
+  range: 3
+  fire_rate: 8
+  damage:
+    type: 1
+    amount: 1

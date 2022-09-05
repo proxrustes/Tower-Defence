@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6db9b73d082dc441a5cefc444cf4d58, type: 3}
+  m_Name: ArcherTowerSO lvl2
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 5094d463a6b6f774c9f4db1494d8e406, type: 3}
+  prefab: {fileID: 1844050820855607772, guid: e4960f8c19a453749b698186e21377c3, type: 3}
+  projectile_prefab: {fileID: 7930594180718154206, guid: 8f7cc016a36265440b1107fb3994d202, type: 3}
+  menu_items: []
+  cost: 150
+  range: 6.1
+  fire_rate: 2.99
+  damage:
+    type: 0
+    amount: 10

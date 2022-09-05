@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be2587e7379e3e9489ca94449e2439d1, type: 3}
+  m_Name: wave script lvl1
+  m_EditorClassIdentifier: 
+  waves:
+  - wave: {fileID: 11400000, guid: 2fb3ccbb900e95f4095a81253a67dd42, type: 2}
+    delay: 0
+  - wave: {fileID: 11400000, guid: 72cd433db41a07549a0ca10d3ac0e03a, type: 2}
+    delay: 8
+  - wave: {fileID: 11400000, guid: 79e8d66453df9d94a94a3e8796e27ea0, type: 2}
+    delay: 15
+  - wave: {fileID: 11400000, guid: d49ec7b8e440680478a6b22edf97cbfd, type: 2}
+    delay: 27

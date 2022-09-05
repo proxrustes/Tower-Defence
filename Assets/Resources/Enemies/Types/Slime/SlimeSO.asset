@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c463e312df6b60045986ed1af6b3376e, type: 3}
+  m_Name: SlimeSO
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 7301330646285538237, guid: f7a5926a8e28235478315e565a312241, type: 3}
+  icon: {fileID: 21300000, guid: c869e1dda8fdedc439995323af4e44d1, type: 3}
+  std_spacing: 0.4
+  bounty: 10
+  speed: 1.08
+  hp: 35
+  XY_symmetry: 0
+  X_symmetry: 1
+  Y_symmetry: 0
