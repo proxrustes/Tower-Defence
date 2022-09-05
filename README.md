@@ -1,8 +1,10 @@
 # Tower-Defence
 
+Simple Tower-defence game in c# using Unity
+
 # What's done?
 
-- Designed multiple levels, waves, enemy- and tower-types
+- Designed multiple waves, enemy- and tower-types
 - Scriptable objects
 - Advanced pop-up menu based on math
 - Worked with Unity 2D
